@@ -1,0 +1,16 @@
+/* h2: orange text
+button : b;ue bg with white text
+p: black bg with white text */
+h2{
+    color:orange ;
+    background-color: black ;
+}
+p{
+    color: white;
+    background-color: blue;
+
+}
+button{
+    color:white ;
+    background-color:black ;
+}
